@@ -58,3 +58,19 @@
     column-gap: 100px;
     justify-content: center;
 }
+
+
+/* call now section started here  */
+.call-now-section{
+    background: url('/images/watch.png');
+    background-size: auto;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 40px 100px;
+}
+
+.call-now{
+    align-items: center;
+    padding:30px 50px;
+}
