@@ -7,6 +7,11 @@
     font-size: large;
 }
 
+.btn-secondary{
+    background-color: white; 
+    color: orange; 
+    font-size: small;
+}
 
 
 
@@ -73,4 +78,27 @@
 .call-now{
     align-items: center;
     padding:30px 50px;
+}
+
+
+/* footer section here */
+footer{
+    display: flex;
+    color: white;
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    justify-content: space-around;
+}
+input{
+    
+    height: 30px;
+    width: 200px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.footer-right{
+    column-gap: 40px;
 }
